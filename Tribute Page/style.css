@@ -204,7 +204,7 @@ footer > h2 {
 }
 
 #foot {
-  align-content: center;
+  text-align: center;
   color: rgb(58, 18, 203);
   bottom: 2vh;
 }
